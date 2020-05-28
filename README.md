@@ -2,7 +2,7 @@
 
 Machine Learning Model that predicts COVID-19 cases in India.
 
-#Requirements :
+# Requirements :
 The following libraries are required to run the code.
 
 1.pandas
